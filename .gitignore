@@ -1,0 +1,7 @@
+.venv
+.env
+
+cdk.out/
+dist/
+**egg*/
+poetry.lock
